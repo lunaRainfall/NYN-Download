@@ -1,0 +1,772 @@
+fileFormatVersion: 2
+guid: a04a7bfa8ab6ab74f8ec3f5b6b3ac4fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Camila
+  - first:
+      213: 21300002
+    second: Stefani
+  - first:
+      213: 21300004
+    second: Do
+  - first:
+      213: 21300006
+    second: Prado
+  - first:
+      213: 21300008
+    second: Guilherme
+  - first:
+      213: 21300010
+    second: Gava
+  - first:
+      213: 21300012
+    second: Barreiros
+  - first:
+      213: 21300014
+    second: Joao
+  - first:
+      213: 21300016
+    second: Pedro
+  - first:
+      213: 21300018
+    second: Lazarini
+  - first:
+      213: 21300020
+    second: Luiz
+  - first:
+      213: 21300022
+    second: Thiago
+  - first:
+      213: 21300024
+    second: Castro
+  - first:
+      213: 21300026
+    second: Da
+  - first:
+      213: 21300028
+    second: Rocha
+  - first:
+      213: 21300030
+    second: CAmila
+  - first:
+      213: 21300032
+    second: Stefani
+  - first:
+      213: 21300034
+    second: do
+  - first:
+      213: 21300036
+    second: Prado
+  - first:
+      213: 21300038
+    second: Guilherme
+  - first:
+      213: 21300040
+    second: Gava
+  - first:
+      213: 21300042
+    second: Barreiros
+  - first:
+      213: 21300044
+    second: Joao
+  - first:
+      213: 21300046
+    second: Pedro
+  - first:
+      213: 21300048
+    second: Lazarini
+  - first:
+      213: 21300050
+    second: Luiz
+  - first:
+      213: 21300052
+    second: Thiago
+  - first:
+      213: 21300054
+    second: Castro
+  - first:
+      213: 21300056
+    second: da
+  - first:
+      213: 21300058
+    second: Rocha
+  - first:
+      213: 21300060
+    second: Credits_15
+  - first:
+      213: 21300062
+    second: Credits_16
+  - first:
+      213: 21300064
+    second: Credits_17
+  - first:
+      213: 21300066
+    second: Credits_18
+  - first:
+      213: 21300068
+    second: Credits_19
+  - first:
+      213: 21300070
+    second: Credits_20
+  - first:
+      213: 21300072
+    second: Credits_21
+  - first:
+      213: 21300074
+    second: Credits_22
+  - first:
+      213: 21300076
+    second: Credits_23
+  - first:
+      213: 21300078
+    second: Credits_24
+  - first:
+      213: 21300080
+    second: Credits_25
+  - first:
+      213: 21300082
+    second: Credits_26
+  - first:
+      213: 21300084
+    second: Credits_27
+  - first:
+      213: 21300086
+    second: Credits_28
+  - first:
+      213: 21300088
+    second: Credits_29
+  - first:
+      213: 21300090
+    second: Credits_30
+  - first:
+      213: 21300092
+    second: Credits_31
+  - first:
+      213: 21300094
+    second: Credits_32
+  - first:
+      213: 21300096
+    second: Credits_33
+  - first:
+      213: 21300098
+    second: Credits_34
+  - first:
+      213: 21300100
+    second: Credits_35
+  - first:
+      213: 21300102
+    second: Credits_36
+  - first:
+      213: 21300104
+    second: Credits_37
+  - first:
+      213: 21300106
+    second: Credits_38
+  - first:
+      213: 21300108
+    second: Credits_39
+  - first:
+      213: 21300110
+    second: Credits_40
+  - first:
+      213: 21300112
+    second: Credits_41
+  - first:
+      213: 21300114
+    second: Credits_42
+  - first:
+      213: 21300116
+    second: Credits_43
+  - first:
+      213: 21300118
+    second: Credits_44
+  - first:
+      213: 21300120
+    second: Credits_45
+  - first:
+      213: 21300122
+    second: Credits_46
+  - first:
+      213: 21300124
+    second: Credits_47
+  - first:
+      213: 21300126
+    second: Credits_48
+  - first:
+      213: 21300128
+    second: Credits_49
+  - first:
+      213: 21300130
+    second: Credits_50
+  - first:
+      213: 21300132
+    second: Credits_51
+  - first:
+      213: 21300134
+    second: Credits_52
+  - first:
+      213: 21300136
+    second: Credits_53
+  - first:
+      213: 21300138
+    second: Credits_54
+  - first:
+      213: 21300140
+    second: Credits_55
+  - first:
+      213: 21300142
+    second: Credits_56
+  - first:
+      213: 21300144
+    second: Credits_57
+  - first:
+      213: 21300146
+    second: Credits_58
+  - first:
+      213: 21300148
+    second: Credits_59
+  - first:
+      213: 21300150
+    second: Credits_60
+  - first:
+      213: 21300152
+    second: Credits_61
+  - first:
+      213: 21300154
+    second: Credits_62
+  - first:
+      213: 21300156
+    second: Credits_63
+  - first:
+      213: 21300158
+    second: Credits_64
+  - first:
+      213: 21300160
+    second: Credits_65
+  - first:
+      213: 21300162
+    second: Credits_66
+  - first:
+      213: 21300164
+    second: Credits_67
+  - first:
+      213: 21300166
+    second: Credits_68
+  - first:
+      213: 21300168
+    second: Credits_69
+  - first:
+      213: 21300170
+    second: Credits_70
+  - first:
+      213: 21300172
+    second: Credits_71
+  - first:
+      213: 21300174
+    second: Credits_72
+  - first:
+      213: 21300176
+    second: Credits_73
+  - first:
+      213: 21300178
+    second: Credits_74
+  - first:
+      213: 21300180
+    second: Credits_75
+  - first:
+      213: 21300182
+    second: Credits_76
+  - first:
+      213: 21300184
+    second: Credits_77
+  - first:
+      213: 21300186
+    second: Credits_78
+  - first:
+      213: 21300188
+    second: Credits_79
+  - first:
+      213: 21300190
+    second: Credits_80
+  - first:
+      213: 21300192
+    second: Credits_81
+  - first:
+      213: 21300194
+    second: Credits_82
+  - first:
+      213: 21300196
+    second: Credits_83
+  - first:
+      213: 21300198
+    second: Credits_84
+  - first:
+      213: 21300200
+    second: Credits_85
+  - first:
+      213: 21300202
+    second: Credits_86
+  - first:
+      213: 21300204
+    second: Credits_87
+  - first:
+      213: 21300206
+    second: Credits_88
+  - first:
+      213: 21300208
+    second: Credits_89
+  - first:
+      213: 21300210
+    second: Credits_90
+  - first:
+      213: 21300212
+    second: Credits_91
+  - first:
+      213: 21300214
+    second: Credits_92
+  - first:
+      213: 21300216
+    second: Credits_93
+  - first:
+      213: 21300218
+    second: Credits_94
+  - first:
+      213: 21300220
+    second: Credits_95
+  - first:
+      213: 21300222
+    second: Credits_96
+  - first:
+      213: 21300224
+    second: Credits_97
+  - first:
+      213: 21300226
+    second: Credits_98
+  - first:
+      213: 21300228
+    second: Credits_99
+  - first:
+      213: 21300230
+    second: Credits_100
+  - first:
+      213: 21300232
+    second: Credits_101
+  - first:
+      213: 21300234
+    second: Credits_102
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CAmila
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 507
+        width: 211
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe26f78296a8e54396b2b1f134c0135
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stefani
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 505
+        width: 242
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512a9174efe053e42a7e5b7612b201fb
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: do
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 506
+        width: 69
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1908afa81e9fc3c48bd71e33af46bf08
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prado
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 504
+        width: 174
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b5d525c9d69c24da97cb2ad66579ae
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilherme
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 435
+        width: 320
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ac1b099abb6ff448015cecc6458a90
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gava
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 432
+        width: 147
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bae72710164dc4785e1cf68eef521c
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barreiros
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 431
+        width: 321
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f406ba55e14d1fd44a13fce4d2536a79
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joao
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 358
+        width: 146
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce4902f0596e3840af2a5147523da1e
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedro
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 357
+        width: 181
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389dd4891c06e5648911061117fdcf24
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lazarini
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 289
+        width: 274
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc16daac3df4d544b2b7aef32a3aacb
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luiz
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 209
+        width: 143
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432d2b57d12f97e4b9d849d807b05124
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thiago
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 208
+        width: 212
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2117152b658f58144afaf89077cf3ddd
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castro
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 207
+        width: 211
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18156ee962d487f46955f89d6320bfdd
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: da
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 208
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a811e2239ad904a967b6985f1b9c32
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocha
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 207
+        width: 174
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8673f0227bd11694197eb73d9fe877ec
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d720f5957d3f065448169c832ea05df4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

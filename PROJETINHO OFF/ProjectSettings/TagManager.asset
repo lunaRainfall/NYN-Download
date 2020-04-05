@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Green
+  - Blue
+  - Red
+  - Cyan
+  - Magenta
+  - Yellow
+  - White
+  - Black
+  - Blue
+  - Red
+  - BG
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - CharLay
+  - InvisibleGroundGreen
+  - InvisibleGroundBlue
+  - InvisibleGroundRed
+  - InvisibleGroundCyan
+  - InvisibleGroundMagenta
+  - InvisibleGroundYellow
+  - InvisibleGroundWhite
+  - BG
+  - IgnorePlayer
+  - InvisibleUILayer
+  - BackgroundParticles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 271611075
+    locked: 0
