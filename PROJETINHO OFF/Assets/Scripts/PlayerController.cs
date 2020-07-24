@@ -1,7 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.PlayerLoop;
 
 public class PlayerController : MonoBehaviour {
     [Header ("Inputs")]
@@ -198,7 +197,6 @@ public class PlayerController : MonoBehaviour {
         }
 
     }
-
 
     public void Walk(Vector2 direction)
     {
